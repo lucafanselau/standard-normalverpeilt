@@ -17,6 +17,7 @@ After downloading, put all the files into the data folder, so that it looks like
   - Divvy_Bicycle_Stations_-_In_Service.csv
   - poi.csv (included with the project)
   - weather_hourly_chicago.csv
+  - population.csv
   
 After that you can freely execute the Jupyter notebooks of this project
 
